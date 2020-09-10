@@ -1,7 +1,7 @@
-<img align="right" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-chibi-boy-with-glasses-png-image_3782196.jpg" height="300" width="300">
+
 ## Hi, I'm Raj 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajsingh92&label=Views&color=blue&style=plastic" alt="Rajsingh92" /> </p>
+
 
 <a href="https://twitter.com/Rajsing00335252">
   <img align="left" alt="Raj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
