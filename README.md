@@ -24,8 +24,6 @@
 
 
 
-- 🔭 I’m currently working on [MyMediDocs](https://mymedidocs-e5181.firebaseapp.com).
-- 🌱 I’m currently learning competive programming.
 - 👯 I’m always open to meaningful collaboration.
 - 💬 Ask me about Python or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Rajsing00335252](https://twitter.com/Rajsing00335252) )
@@ -51,9 +49,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajsingh92&show_icons=true&theme=light&line_height=27" alt="Raj's github stats"/>
 </a>
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
