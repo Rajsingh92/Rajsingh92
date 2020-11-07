@@ -35,10 +35,10 @@
 
 
 - 👯 I’m always open to meaningful collaboration.
-- 💬 Ask me about Python or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Rajsing00335252](https://twitter.com/Rajsing00335252) )
-- 😄 Pronouns: He/His.
 - 🎃 I am always ready to help others.
+- 💬 Ask me about Python or any tech related stuff.
+- 😄 Pronouns: He/His.
+
 
 **Languages and Tools:**  
 
