@@ -1,5 +1,6 @@
 
 ## Hi, I'm Raj 👋
+<img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://twitter.com/Rajsing00335252">
   <img align="left" alt="Raj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
